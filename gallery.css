@@ -1,0 +1,10 @@
+.gallery{
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.image-countainer{
+    position: relative;
+}
+
